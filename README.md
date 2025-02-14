@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @juniormusasizi61 (full name:Musasizi Junior)
+- 👋 Hi, I’m @juniormusasizi61 (Musasizi Junior)
 - 👀 I’m interested in learning programming, AI/ML, harnessing technology to sovle  the complex real world problems computationally 
 - 🌱 I’m currently pursuing a bachelors degree in computer science and maximumly utilising online resources and any open opportunities to archieve the most out of it.
 - 💞️ I’m looking forward to collaborating on open source repositories to enhance my coding experience
