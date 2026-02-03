@@ -1,13 +1,15 @@
 # 👋 Hi there, I’m Junior Musasizi  
 
-🚀 Passionate about **AI/ML**, **software engineering**, and harnessing technology to solve real-world problems computationally.  
+🚀 Passionate about **AI/ML**, **software engineering**, and harnessing technology to solve real-world problems computationally and delivering value through code.
+
+  
 
 ---
 
 ## 👨‍🎓 About Me  
 - 🎓 **Bsc CSC**  
 - 🌱 Continuously learning through **online platforms** like [freeCodeCamp](https://www.freecodecamp.org/), [Saylor Academy](https://www.saylor.org/), [Udacity](https://www.udacity.com/), [Alison](https://alison.com), and on-campus hands-on practice.  
-- 👀 Interested in **AI/ML, full-stack web development, and mobile application development**  
+- 👀 Interested in **AI/ML, full-stack software engineering and mobile application development**  
 - 💡 Believer in open-source collaboration as a path to **growth and experience**  
 
 ---
